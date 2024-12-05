@@ -2,9 +2,14 @@
 
 Diabetes Analysis and Prediction Project
 
+
 This project focuses on predicting whether a person has diabetes or not based on various factors. It includes a dataset file diabetes_prediction_dataset.csv and a Jupyter Notebook file notebook.ipynb which contains the code and analysis.
 
+
+
+
 Dataset
+
 
 The dataset file diabetes_prediction_dataset.csv contains 100,000 rows and 9 columns with the following column names:
 
@@ -26,7 +31,14 @@ blood_glucose_level: Blood glucose level of the individual.
 
 diabetes: Binary value (0 or 1) indicating the presence of diabetes.
 
+
+
+
+
+
 Notebook
+
+
 The Jupyter Notebook file Diabetes Analysis.ipynb contains the code and analysis for the diabetes prediction project. Here is an overview of the steps performed in the notebook:
 
 1.Importing required libraries.
