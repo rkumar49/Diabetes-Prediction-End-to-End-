@@ -13,23 +13,23 @@ Dataset
 
 The dataset file diabetes_prediction_dataset.csv contains 100,000 rows and 9 columns with the following column names:
 
-gender: Three unique values - male, female, other.
+1.gender: Three unique values - male, female, other.
 
-age: Age of the individual.
+2.age: Age of the individual.
 
-hypertension: Binary value (0 or 1) indicating the presence of hypertension.
+3.hypertension: Binary value (0 or 1) indicating the presence of hypertension.
 
-heart_disease: Binary value (0 or 1) indicating the presence of heart disease.
+4.heart_disease: Binary value (0 or 1) indicating the presence of heart disease.
 
-smoking_history: Six unique values - never, no info, current, former, ever, not current.
+5.smoking_history: Six unique values - never, no info, current, former, ever, not current.
 
-bmi: Body Mass Index (BMI) of the individual.
+6.bmi: Body Mass Index (BMI) of the individual.
 
-HbA1c_level: Level of HbA1c (glycated hemoglobin) in the blood.
+7.HbA1c_level: Level of HbA1c (glycated hemoglobin) in the blood.
 
-blood_glucose_level: Blood glucose level of the individual.
+8.blood_glucose_level: Blood glucose level of the individual.
 
-diabetes: Binary value (0 or 1) indicating the presence of diabetes.
+9.diabetes: Binary value (0 or 1) indicating the presence of diabetes.
 
 
 
